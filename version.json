@@ -1,0 +1,7 @@
+{
+    "version": "1.0.5",
+    "releaseNotes": "Aggiunti crediti e sistemati bug",
+    "downloadUrl": "https://github.com/mameledss/MemoRise-releases/releases/latest/download/MemoRise-installer.exe",
+    "isRequired": false,
+    "minVersion": "1.0.0"
+}
