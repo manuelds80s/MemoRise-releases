@@ -1,6 +1,7 @@
 # MemoRise Release Notes
 
 ![GitHub release (latest by tag)](https://img.shields.io/github/v/release/manuelds80s/MemoRise-releases)
+[![Download MemoRise](https://img.shields.io/badge/Download-brightgreen?style=for-the-badge)](https://github.com/manuelds80s/MemoRise-releases/releases/download/v1.0.6/MemoRise-Installer.exe)
 
 Welcome to the MemoRise releases page!
 
