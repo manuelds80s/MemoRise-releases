@@ -1,5 +1,8 @@
 # MemoRise Release Notes
 
+![GitHub release (latest by tag)](https://img.shields.io/github/v/release/manuelds80s/MemoRise-releases)
+![GitHub license](https://img.shields.io/github/license/manuelds80s/MemoRise-releases)
+
 Welcome to the MemoRise releases page!
 
 Here you will find all information about released versions, new features, improvements, and bug fixes.
