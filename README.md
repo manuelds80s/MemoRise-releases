@@ -30,7 +30,13 @@ Each release includes:
 - New feature: Pomodoro Timer (Tomatime)
 - Improved calculator
 - Fixed bug in unit converter
-
+### v1.0.7 (February 06, 2026)
+- Added bulleted list
+- Added numbered list
+- Added copy button for AI Chat
+- Added Labeling system
+- Added bin for deleting notes
+- Added .pdf and .html export
 ---
 
 Thank you for choosing MemoRise!
