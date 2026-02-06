@@ -1,6 +1,6 @@
 {
-    "version": "1.0.6",
-    "releaseNotes": "Aggiunti crediti e sistemati bug",
+    "version": "1.0.7",
+    "releaseNotes": "Pulsante copia per AI",
     "downloadUrl": "https://github.com/manuelds80s/MemoRise-releases/releases/latest/download/MemoRise-installer.exe",
     "isRequired": false,
     "minVersion": "1.0.1"
