@@ -1,7 +1,7 @@
 {
-    "version": "1.0.7",
-    "releaseNotes": "Pulsante copia per AI",
+    "version": "1.0.8",
+    "releaseNotes": "Fixed Users Registration Errors, Added QR Code Generator, Math equations formatter, CodeBlock, httptester, new line button, blocked notes",
     "downloadUrl": "https://github.com/manuelds80s/MemoRise-releases/releases/latest/download/MemoRise-installer.exe",
     "isRequired": false,
-    "minVersion": "1.0.1"
+    "minVersion": "1.0.2"
 }
