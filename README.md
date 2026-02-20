@@ -37,6 +37,16 @@ Each release includes:
 - Added Labeling system
 - Added bin for deleting notes
 - Added .pdf and .html export
+
+### v1.0.8 (February 20, 2026)
+- Fixed Users Registration Errors
+- Added QR Code Generator
+- Added Math equations formatter
+- Added CodeBlock
+- Added httptester
+- Added new line button
+- Added "blocked notes"
+
 ---
 
 Thank you for choosing MemoRise!
