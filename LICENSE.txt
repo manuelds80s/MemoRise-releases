@@ -1,0 +1,27 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+Version: 1.0
+Date: January 25, 2026
+Licensor: Manuel Dalla Santa
+
+This End-User License Agreement ("License") governs the use of the software MemoRise ("Software"), including source code files, documentation, and related assets.
+
+1. GRANT OF LICENSE
+The Licensor grants the user ("Licensee") a non-exclusive, royalty-free right to:
+- Download, install, and run the Software on an unlimited number of devices.
+- Access the source code and make modifications, customizations, or integrations for strictly personal use or internal testing purposes.
+
+2. RESTRICTIONS (PROHIBITION OF REDISTRIBUTION)
+The Licensee is expressly prohibited from:
+- Redistributing, sharing, selling, leasing, or sublicensing the Software to any third party, whether in its original or modified form.
+- Uploading the Software or modified code to public repositories, forums, or third-party websites (excluding private "forks" not accessible to the public).
+- Using the Software as a basis to create a competing product intended for public distribution.
+
+3. INTELLECTUAL PROPERTY
+The Licensor remains the sole owner of all intellectual property rights related to the Software. This agreement does not transfer ownership of the Software to the Licensee, but only grants a limited right of use according to the terms set forth above, in accordance with International Copyright Laws.
+
+4. DISCLAIMER OF WARRANTY ("AS-IS")
+The Software is provided "AS-IS", without warranty of any kind, express or implied. The Licensor shall not be liable for any damages, direct or indirect, arising from the use or inability to use the Software, or arising from modifications made by the user to the original code.
+
+5. TERMINATION
+Any violation of the terms of this License will result in the automatic and immediate termination of the right to use the Software.
