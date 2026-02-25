@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8",
-    "releaseNotes": "Fixed Users Registration Errors, Added QR Code Generator, Math equations formatter, CodeBlock, httptester, new line button, blocked notes",
+    "version": "1.0.9",
+    "releaseNotes": "Added profile avatar and fixed registration process, added pin option for notes, added animations, moved settings menu position, removed the possibility of inspecting the page, bug correction: yellow underline in research and bug correction: 'x' color in menus",
     "downloadUrl": "https://github.com/manuelds80s/MemoRise-releases/releases/latest/download/MemoRise-installer.exe",
     "isRequired": false,
     "minVersion": "1.0.2"
