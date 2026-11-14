@@ -1,7 +1,7 @@
 {
-    "version": "1.0.9",
-    "releaseNotes": "Added profile avatar and fixed registration process, added pin option for notes, added animations, moved settings menu position, removed the possibility of inspecting the page, bug correction: yellow underline in research and bug correction: 'x' color in menus",
+    "version": "1.1.0",
+    "releaseNotes": "Style uniformation and bug correction",
     "downloadUrl": "https://github.com/manuelds80s/MemoRise-releases/releases/latest/download/MemoRise-installer.exe",
     "isRequired": false,
-    "minVersion": "1.0.2"
+    "minVersion": "1.0.4"
 }
