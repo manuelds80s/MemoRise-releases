@@ -37,7 +37,6 @@ Each release includes:
 - Added Labeling system
 - Added bin for deleting notes
 - Added .pdf and .html export
-
 ### v1.0.8 (February 20, 2026)
 - Fixed Users Registration Errors
 - Added QR Code Generator
@@ -46,6 +45,10 @@ Each release includes:
 - Added httptester
 - Added new line button
 - Added "blocked notes"
+### v1.1.0 (November 17, 2026)
+- Fixed some bugs
+- Better User experience
+- Improved Graphics
 
 ---
 
